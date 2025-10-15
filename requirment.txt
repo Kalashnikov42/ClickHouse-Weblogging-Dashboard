@@ -1,0 +1,6 @@
+clickhouse-connect==0.7.0
+mysql-connector-python==8.2.0
+faker==24.8.0
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.0
