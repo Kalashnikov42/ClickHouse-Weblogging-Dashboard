@@ -1,5 +1,4 @@
 ***ClickHouse vs MySQL Performance Benchmark***
-*Project Description*
 A performance benchmarking dashboard that compares ClickHouse (columnar analytical database) against MySQL (traditional row-based RDBMS) on large-scale datasets. Demonstrates the performance advantages of columnar storage for analytical workloads.
 
 *Features*
